@@ -1,16 +1,19 @@
-### Hi there 👋
+# Skidmaster 69420 LLC 
 
-<!--
-**skidmaster69420/skidmaster69420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skidmaster 69420 LLC is a premier cybersecurity organization of 2 people, a million flies, and some vultures who specialize in free Discord token deletion and user communication services. 
 
-Here are some ideas to get you started:
+## About Us
+Skidmaster 69420 LLC was created by Boss Mann in response to getting a parking ticket, his Discord account stolen and Facebook account banned. For more information on our company values, consult [the token deletion repo README](https://github.com/skidmaster69420/discord-tokens#readme).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Boss Mann** - Boss Mann is an American-British internet personality and former professional kickboxer. 
+* **Unpaid Intern** - Unpaid Intern is a young, white male with poor hygiene, a massive anime figurine collection, and questionable social skills.
+
+## Our Services
+### [Discord Token Deletion Service](https://github.com/skidmaster69420/discord-tokens)
+Our token deletion repo offers Deletion of Discord User & Bot tokens. Making scammers, phishers, fake QR-code scammers life even more miserable Automated process.
+
+### User Communication Services
+In addition to responding to community issues on [our own token deletion service](https://github.com/skidmaster69420/discord-tokens/issues?q=commenter%3Askidmaster69420). We also required by court order mandate to respond to issues on these select repositories:
+
+* [unknownsrc/tokens](https://github.com/unknownsrc/tokens/issues?q=commenter%3Askidmaster69420)
+* [IMarkoMC/Tokens](https://github.com/IMarkoMC/Tokens/issues?q=commenter%3Askidmaster69420)

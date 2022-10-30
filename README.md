@@ -19,4 +19,4 @@ In addition to responding to community issues on [our own token deletion service
 
 Thankfully, our general counsel of highly intelligent flies (most well known for being the inspiration behind ["Weird Al" Yankovic's I'll Sue Ya](https://youtu.be/MeXQBHLIPcw)) was successfully able to discharge us from responding to issues on these repositories: 
 
-[unknownsrc/tokens](https://github.com/unknownsrc/tokens/issues?q=commenter%3Askidmaster69420)
+* [unknownsrc/tokens](https://github.com/unknownsrc/tokens/issues?q=commenter%3Askidmaster69420)

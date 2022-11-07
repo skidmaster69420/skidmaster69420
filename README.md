@@ -13,7 +13,11 @@ Skidmaster 69420 LLC was created by Boss Mann in response to getting a parking t
 Our token deletion repo offers Deletion of Discord User & Bot tokens. Making scammers, phishers, fake QR-code scammers life even more miserable Automated process.
 
 ### User Communication Services
-In addition to responding to community issues on [our own token deletion service](https://github.com/skidmaster69420/discord-tokens/issues?q=commenter%3Askidmaster69420), we are also required by court order to respond to issues on these select repositories:
+We respond to community issues on our own token deletion service repository:
+
+* [skidmaster69420/discord-tokens](https://github.com/skidmaster69420/discord-tokens/issues?q=commenter%3Askidmaster69420)
+
+In addition to responding to community issues on own repository, we are also required by court order to respond to issues on these select repositories:
 
 * [IMarkoMC/Tokens](https://github.com/IMarkoMC/Tokens/issues?q=commenter%3Askidmaster69420)
 

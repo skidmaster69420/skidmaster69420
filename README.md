@@ -5,7 +5,7 @@ Skidmaster 69420 LLC is a premier cybersecurity organization of 2 people, a mill
 ## About Us
 Skidmaster 69420 LLC was created by Boss Mann in response to getting a parking ticket, his Discord account stolen, and Facebook account banned. For more information on our company values, consult [the token deletion repo README](https://github.com/skidmaster69420/discord-tokens#readme).
 
-* ~~**[Boss Mann](https://www.youtube.com/watch?v=vtNJMAyeP0s)** - Boss Mann is an American-British internet personality and former professional kickboxer.~~ **IMPRSIONED.**
+* ~~**[Boss Mann](https://www.youtube.com/watch?v=vtNJMAyeP0s)** - Boss Mann is an American-British internet personality and former professional kickboxer.~~ **IMPRISONED.**
 * **[Unpaid Intern](https://www.youtube.com/watch?v=luSRGdUcIvM)** - Unpaid Intern is a young, white male with poor hygiene, a massive anime figurine collection, and questionable social skills.
 
 ## Our Services

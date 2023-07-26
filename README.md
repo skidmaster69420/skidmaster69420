@@ -1,6 +1,6 @@
 # Skidmaster 69420 LLC 
 
-Skidmaster 69420 LLC is a premier cybersecurity organization of 2 people, a million flies, and some vultures who specialize in free Discord token deletion and user communication services. 
+Skidmaster 69420 LLC is a premier cybersecurity organization of a million flies, and some vultures who specialize in free Discord token deletion and user communication services. 
 
 ## About Us
 Skidmaster 69420 LLC was created by Boss Mann in response to getting a parking ticket, his Discord account stolen, and Facebook account banned. For more information on our company values, consult [the token deletion repo README](https://github.com/skidmaster69420/discord-tokens#readme).

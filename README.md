@@ -17,7 +17,7 @@ Our token deletion repo offers Deletion of Discord User & Bot tokens. Making sca
 We respond to community issues on our own token deletion service repository:
 
 * [skidmaster69420/discord-tokens](https://github.com/skidmaster69420/discord-tokens/issues?q=commenter%3Askidmaster69420+sort%3Aupdated-desc)
-* [skidmaster69420Tokens](https://github.com/skidmaster69420/discord-tokens/issues?q=commenter%3Askidmaster69420+sort%3Aupdated-desc)
+* [skidmaster69420/Tokens](https://github.com/skidmaster69420/discord-tokens/issues?q=commenter%3Askidmaster69420+sort%3Aupdated-desc)
 
 In addition to responding to community issues on own repository, we are also required by court order to respond to issues on these select repositories:
 

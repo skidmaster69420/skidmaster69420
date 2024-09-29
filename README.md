@@ -1,5 +1,5 @@
 > [!WARNING]
-> Unfortunately, the [rights to this organization](https://apnews.com/article/alex-jones-infowars-bankruptcy-sandy-hook-shooting-9052caad16dcdfd3bff0697454394d9f) were sold as part of the liquidation of the Infowars media platform.
+> Unfortunately, this organization [was sold as part of the liquidation of the Infowars media platform](https://apnews.com/article/alex-jones-infowars-bankruptcy-sandy-hook-shooting-9052caad16dcdfd3bff0697454394d9f).
 
 # Skidmaster 69420 LLC 
 

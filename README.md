@@ -1,7 +1,7 @@
-# Skidmaster 69420 LLC 
-
 > [!WARNING]
 > Unfortunately, the [rights to this organization](https://apnews.com/article/alex-jones-infowars-bankruptcy-sandy-hook-shooting-9052caad16dcdfd3bff0697454394d9f) were sold as part of the liquidation of the Infowars media platform.
+
+# Skidmaster 69420 LLC 
 
 Skidmaster 69420 LLC was a premier cybersecurity organization of a million flies, and some vultures who specialize in free Discord token deletion and user communication services.
 

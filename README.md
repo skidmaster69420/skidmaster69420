@@ -21,5 +21,4 @@ We respond to community issues on our own token deletion service repository:
 In addition to responding to community issues on own repository, we were also required by court order to respond to issues on select repositories. Thankfully, our general counsel of highly intelligent flies (most well known for being the inspiration behind ["Weird Al" Yankovic's I'll Sue Ya](https://youtu.be/MeXQBHLIPcw)) was successfully able to discharge us from responding to issues on these repositories:
 
 * [IMarkoMC/Tokens](https://github.com/IMarkoMC/Tokens/issues?q=commenter%3Askidmaster69420+sort%3Aupdated-desc)
-  * [skidmaster69420/Tokens](https://github.com/skidmaster69420/Tokens/issues?q=commenter%3Askidmaster69420+sort%3Aupdated-desc)
 * [unknownsrc/tokens](https://github.com/unknownsrc/tokens/issues?q=commenter%3Askidmaster69420+sort%3Aupdated-desc)
